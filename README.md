@@ -21,7 +21,6 @@
   - http://mirrors6.tuna.tsinghua.edu.cn/
   - http://mirrors4.tuna.tsinghua.edu.cn/
 - 中国科学技术大学：http://mirrors.ustc.edu.cn/ 
-  - http://ipv4.ustc.edu.cn/ \<教育网、电信\>
   - http://ipv6.ustc.edu.cn/ \<IPv6 only\>
 - 东北大学：http://mirror.neu.edu.cn/
 - 浙江大学：http://mirrors.zju.edu.cn/
