@@ -8,6 +8,16 @@
 - [Linux公社](http://www.linuxidc.com/) - Linux相关的新闻、教程、主题、壁纸都有。
 - [Linux Today](http://www.linuxde.net) - Linux新闻资讯发布，Linux职业技术学习！。
 
+### 知识相关
+
+- [Linux思维导图整理](http://www.jianshu.com/p/59f759207862)
+- [Linux初学者进阶学习资源整理](http://www.jianshu.com/p/fe2a790b41eb)
+- [Linux 基础入门（新版）](https://www.shiyanlou.com/courses/1)
+- [【译】Linux概念架构的理解](http://www.jianshu.com/p/c5ae8f061cfe) [En](http://oss.org.cn/ossdocs/linux/kernel/a1/index.html)
+- [Linux 守护进程的启动方法](http://www.ruanyifeng.com/blog/2016/02/linux-daemon.html)
+- [Linux编程之内存映射](https://www.shiyanlou.com/questions/2992)
+- [10大白帽黑客专用的 Linux 操作系统](https://linux.cn/article-6971-1.html)
+
 ### 国内开源镜像站点
 
 - 阿里云开源镜像站：http://mirrors.aliyun.com/
