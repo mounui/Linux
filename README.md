@@ -1,13 +1,5 @@
 ## Linux学习资源整理
 
-### 社区网站
-
-- [鸟哥的linux私房菜](http://linux.vbird.org/) - 非常适合Linux入门初学者看的教程。
-- [实验楼](https://www.shiyanlou.com/) - 免费提供了Linux在线环境，不用在自己机子上装系统也可以学习Linux，超方便实用。
-- [Linux中国](https://linux.cn/) - 各种资讯、文章、技术
-- [Linux公社](http://www.linuxidc.com/) - Linux相关的新闻、教程、主题、壁纸都有。
-- [Linux Today](http://www.linuxde.net) - Linux新闻资讯发布，Linux职业技术学习！。
-
 ### 知识相关
 
 - [Linux思维导图整理](http://www.jianshu.com/p/59f759207862)
@@ -18,10 +10,17 @@
 - [Linux编程之内存映射](https://www.shiyanlou.com/questions/2992)
 - [10大白帽黑客专用的 Linux 操作系统](https://linux.cn/article-6971-1.html)
 
+### 社区网站
+
+- [鸟哥的linux私房菜](http://linux.vbird.org/) - 非常适合Linux入门初学者看的教程。
+- [实验楼](https://www.shiyanlou.com/) - 免费提供了Linux在线环境，不用在自己机子上装系统也可以学习Linux，超方便实用。
+- [Linux中国](https://linux.cn/) - 各种资讯、文章、技术
+- [Linux公社](http://www.linuxidc.com/) - Linux相关的新闻、教程、主题、壁纸都有。
+- [Linux Today](http://www.linuxde.net) - Linux新闻资讯发布，Linux职业技术学习！。
+
 ### 软件工具
 
 - [超赞的Linux软件](https://www.gitbook.com/book/alim0x/awesome-linux-software-zh_cn/details) Github仓库[Zh](https://github.com/alim0x/Awesome-Linux-Software-zh_CN) [En](https://github.com/VoLuong/Awesome-Linux-Software)
-- [程序员喜欢的9款最佳的Linux文件比较工具](http://os.51cto.com/art/201607/513796.htm)
 - [提高 Linux 开发效率的 5 个工具](http://www.codeceo.com/article/5-linux-productivity-tools.html)
 - [你要了解的11款面向Linux系统的一流备份实用工具](http://os.51cto.com/art/201603/508027.htm)
 - [16个很有用的在线工具](http://www.simlinux.com/archives/264.html)
