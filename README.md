@@ -20,7 +20,7 @@
 
 ### 软件工具
 
-- [超赞的Linux软件](https://www.gitbook.com/book/alim0x/awesome-linux-software-zh_cn/details) Github仓库[Zh](https://github.com/alim0x/Awesome-Linux-Software-zh_CN) [En](https://github.com/VoLuong/Awesome-Linux-Software)
+- *[超赞的Linux软件]*(https://www.gitbook.com/book/alim0x/awesome-linux-software-zh_cn/details) Github仓库[Zh](https://github.com/alim0x/Awesome-Linux-Software-zh_CN) [En](https://github.com/VoLuong/Awesome-Linux-Software)
 - [提高 Linux 开发效率的 5 个工具](http://www.codeceo.com/article/5-linux-productivity-tools.html)
 - [16个很有用的在线工具](http://www.simlinux.com/archives/264.html)
 - [Adobe软件的最佳替代品](https://linux.cn/article-8928-1.html)
