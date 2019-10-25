@@ -1,6 +1,28 @@
 ## Linux命令分类
 
-Linux命令分类转自[linux-command](https://github.com/jaywcjlove/linux-command),方便学习和查询使用。
+Linux命令分类转自[linux-command](https://github.com/jaywcjlove/linux-command)，方便学习和查询使用。
+
+目录
+=================
+
+* [Linux命令分类](#linux命令分类)
+  * [文件传输](#文件传输) File Management
+  * [备份压缩](#备份压缩) File Transfer
+  * [文件管理](#文件管理) File Editor
+  * [磁盘管理](#磁盘管理) File Compression
+  * [磁盘维护](#磁盘维护) System Management
+  * [系统设置](#系统设置) System Settings
+  * [系统管理](#系统管理) Network Communication
+  * [文本处理](#文本处理) Disk Management
+  * [网络通讯](#网络通讯) Disk Maintenance
+  * [设备管理](#设备管理) Device Commands
+  * [电子邮件与新闻组](#电子邮件与新闻组)
+  * [其他命令](#其他命令) Misc Commands
+* [Linux学习资源整理](#linux学习资源整理)
+  * [知识相关](#知识相关)
+  * [社区网站](#社区网站)
+  * [软件工具](#软件工具)
+  * [国内开源镜像站点](#国内开源镜像站点)
 
 ### 文件传输
 
@@ -49,6 +71,7 @@ archive、ctlinnd、elm、getlist、inncheck、mail、mailconf、mailq、message
 ### 其他命令
 
 yes
+
 ## Linux学习资源整理
 
 ### 知识相关
