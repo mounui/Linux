@@ -112,7 +112,7 @@ yes
 - 阿里云开源镜像站：http://mirrors.aliyun.com/
 - 网易开源镜像站：http://mirrors.163.com/
 - 搜狐开源镜像站：http://mirrors.sohu.com/
-- 北京交通大学：http://mirror.bjtu.edu.cn/ \<教育网荐\>
+- 北京交通大学：http://mirror.bjtu.edu.cn/
 - 兰州大学：http://mirror.lzu.edu.cn/ \<西北高校FTP搜索引擎\>
 - 厦门大学：http://mirrors.xmu.edu.cn/
 - 上海交通大学：http://ftp.sjtu.edu.cn/
