@@ -107,6 +107,9 @@ yes
   - [Tupi (Adobe Animate)](http://www.maefloresta.com/portal/) 一款可以创建HTML5动画的工具。
   - [Black Magic Fusion (Adobe After Effects)](https://www.blackmagicdesign.com/) 一款先进的合成软件，广泛应用于视觉特效、广电影视设计以及3D动画设计等领域。
 
+### 其他资源
+- [每天一个linux命令](https://www.cnblogs.com/peida/archive/2012/12/05/2803591.html)
+
 ### 国内开源镜像站点
 
 - 阿里云开源镜像站：http://mirrors.aliyun.com/
