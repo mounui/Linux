@@ -109,6 +109,7 @@ yes
 
 ### 其他资源
 - [每天一个linux命令](https://www.cnblogs.com/peida/archive/2012/12/05/2803591.html)
+- [Linux命令搜索](https://git.io/linux)
 
 ### 国内开源镜像站点
 
