@@ -22,6 +22,7 @@ Linux命令分类转自[linux-command](https://github.com/jaywcjlove/linux-comma
   * [知识相关](#知识相关)
   * [社区网站](#社区网站)
   * [软件工具](#软件工具)
+  * [其他资源](#其他资源)
   * [国内开源镜像站点](#国内开源镜像站点)
 
 ### 文件传输
