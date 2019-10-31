@@ -64,5 +64,61 @@ rm：是否删除普通空文件 "log2.log"？y
 
 #### 4.将test1子目录及子目录中所有档案删除
 
+```shell
+[mao@localhost test]$ ll
+总用量 0
+drwxrwxr-x. 2 mao mao  6 10月 30 22:27 scf
+drwxrwxr-x. 2 mao mao 22 10月 31 21:51 test1
+drwxrwxr-x. 2 mao mao  6 10月 30 22:28 test2
+drwxrwxr-x. 2 mao mao  6 10月 30 22:28 test3
+drwxrwxr-x. 2 mao mao  6 10月 30 22:28 test4
+drwxrwxr-x. 2 mao mao  6 10月 30 22:28 test5
+[mao@localhost test]$ rm -r test1
+[mao@localhost test]$ ll
+总用量 0
+drwxrwxr-x. 2 mao mao 6 10月 30 22:27 scf
+drwxrwxr-x. 2 mao mao 6 10月 30 22:28 test2
+drwxrwxr-x. 2 mao mao 6 10月 30 22:28 test3
+drwxrwxr-x. 2 mao mao 6 10月 30 22:28 test4
+drwxrwxr-x. 2 mao mao 6 10月 30 22:28 test5
+```
 
+#### 5.强制删除目录及其里面的内容
 
+```shell
+[mao@localhost test]$ rm -rf test2
+[mao@localhost test]$ ll
+总用量 0
+drwxrwxr-x. 2 mao mao 6 10月 30 22:27 scf
+drwxrwxr-x. 2 mao mao 6 10月 30 22:28 test3
+drwxrwxr-x. 2 mao mao 6 10月 30 22:28 test4
+drwxrwxr-x. 2 mao mao 6 10月 30 22:28 test5
+```
+
+#### 6.删除已-f开头的文件
+
+```shell
+[mao@localhost test]$ touch -- -f
+[mao@localhost test]$ ls -- -f
+-f
+[mao@localhost test]$ rm -- -f
+[mao@localhost test]$ ls -- -f
+ls: 无法访问-f: 没有那个文件或目录
+```
+
+#### 7.自定义回收站功能
+
+```shell
+# 模拟回收站的效果，即删除文件的时候只是把文件放到一个临时目录中，这样在需要的时候还可以恢复过来。
+[mao@localhost test]$ myrm(){ D=/tmp/$(date +%Y%m%d%H%M%S); mkdir -p $D; mv "$@" $D && echo "moved to $D ok";}
+[mao@localhost test]$ alias rm='myrm'
+[mao@localhost test]$ touch {1..3}.log
+[mao@localhost test]$ ls
+1.log  2.log  3.log  scf  test3  test4  test5
+[mao@localhost test]$ rm {1..3}.log
+moved to /tmp/20191031220452 ok
+[mao@localhost test]$ ls
+scf  test3  test4  test5
+[mao@localhost test]$ ls /tmp/20191031220452/
+1.log  2.log  3.log
+```
